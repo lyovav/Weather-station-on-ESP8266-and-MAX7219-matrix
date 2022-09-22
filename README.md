@@ -1,7 +1,7 @@
 # Weather-station-on-ESP8266-and-MAX7219-matrix!
 How to configure flash_download_tools
 
-[8266_flash](https://user-images.githubusercontent.com/3407229/191793563-ba61b4f9-d7ed-41de-83c8-73f458dd3660.jpg)
+![8266_flash](https://user-images.githubusercontent.com/3407229/191793563-ba61b4f9-d7ed-41de-83c8-73f458dd3660.jpg)
 
 connection diagram of the maximum configuration
 
