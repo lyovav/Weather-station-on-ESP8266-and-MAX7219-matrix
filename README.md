@@ -6,3 +6,9 @@ How to configure flash_download_tools
 connection diagram of the maximum configuration
 
 ![scheme_esp8266](https://user-images.githubusercontent.com/3407229/191793606-83d76c20-5c58-4425-a2e5-2ed80b8ed3da.png)
+
+
+
+Web interface
+
+![meteo](https://user-images.githubusercontent.com/3407229/191795171-95626df7-033b-4e8b-bdf9-a2437380dc80.jpg)
